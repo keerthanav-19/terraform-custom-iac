@@ -1,0 +1,3 @@
+variable "client" { }
+
+variable "region" { }
